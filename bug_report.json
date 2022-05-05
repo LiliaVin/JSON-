@@ -1,0 +1,9 @@
+{
+  "Id":"A1",
+  "Name":"FF53 - User can enter alphabetical and special symbols to DOB fie",
+  "Steps1":"Log in to MiAgent portal", 
+	"Steps2":"Search for a customer",
+	"Steps3":"Click on Edit icon near Income/Last Changed",
+  "Actual result":"User can enter alphabetical and special symbols to DOB field",
+  "Expected result":"User can't enter alphabetical and special symbols to DOB field",
+}
